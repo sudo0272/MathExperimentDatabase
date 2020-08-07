@@ -1,4 +1,5 @@
 #include <vector>
+#include "Row.h"
 
 class Database {
 public:
