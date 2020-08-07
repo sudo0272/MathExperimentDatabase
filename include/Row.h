@@ -1,3 +1,5 @@
+#pragma once
+
 #include <string>
 
 class Row {
@@ -8,6 +10,7 @@ private:
   std::string nickname;
 
 public:
+  Row(unsigned int, std::string, std::string, std::string);
   unsigned int getIndex();
   std::string getId();
   std::string getPassword();
