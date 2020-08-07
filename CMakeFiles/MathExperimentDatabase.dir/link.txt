@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MathExperimentDatabase.dir/src/Database.cpp.o CMakeFiles/MathExperimentDatabase.dir/src/Row.cpp.o CMakeFiles/MathExperimentDatabase.dir/src/main.cpp.o -o MathExperimentDatabase 

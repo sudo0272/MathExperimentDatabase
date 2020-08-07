@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sudo0272/Projects/MathExperimentDatabase/include/Database.h
+vector
+-
+string
+-
+Row.h
+/home/sudo0272/Projects/MathExperimentDatabase/include/Row.h
+
+/home/sudo0272/Projects/MathExperimentDatabase/include/Row.h
+string
+-
+
+/home/sudo0272/Projects/MathExperimentDatabase/src/main.cpp
+../include/Database.h
+/home/sudo0272/Projects/MathExperimentDatabase/include/Database.h
+../include/Row.h
+/home/sudo0272/Projects/MathExperimentDatabase/include/Row.h
+iostream
+-
+

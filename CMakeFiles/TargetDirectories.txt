@@ -1,0 +1,3 @@
+/home/sudo0272/Projects/MathExperimentDatabase/CMakeFiles/edit_cache.dir
+/home/sudo0272/Projects/MathExperimentDatabase/CMakeFiles/rebuild_cache.dir
+/home/sudo0272/Projects/MathExperimentDatabase/CMakeFiles/MathExperimentDatabase.dir
